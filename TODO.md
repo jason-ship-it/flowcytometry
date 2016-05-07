@@ -1,4 +1,0 @@
-- Create README file with instructions
-- Add option to create density plots
-- Add an input file to edit so that they don't edit the code
-- Add number of replicates on 4th column in the output to play nice with Prism
